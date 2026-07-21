@@ -1,4 +1,3 @@
-```md
 # Hi there! I'm Hassane Elhariti
 
 <div align="center">
@@ -26,4 +25,3 @@ Feel free to ask me about **Java, Spring Boot, Backend Development, REST APIs, S
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hassane.elhariti)
 
 </div>
-```
